@@ -99,7 +99,7 @@ const About = () => {
               <div className="text-sm opacity-90">Géneros Literarios</div>
             </div>
             <div className={`transition-all duration-700 ${statsVisible ? 'translate-y-0 opacity-100' : 'translate-y-5 opacity-0'}`} style={{ transitionDelay: '600ms' }}>
-              <div className="text-4xl font-bold mb-2">0€</div>
+              <div className="text-4xl font-bold mb-2">S/.0</div>
               <div className="text-sm opacity-90">Costo para Escritores</div>
             </div>
             <div className={`transition-all duration-700 ${statsVisible ? 'translate-y-0 opacity-100' : 'translate-y-5 opacity-0'}`} style={{ transitionDelay: '800ms' }}>
