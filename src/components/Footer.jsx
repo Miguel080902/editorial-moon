@@ -71,7 +71,6 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <img src={logo} alt="Moon Editorial" className="h-10 w-auto" />
-              <span className="font-display text-2xl font-bold">MOON</span>
             </div>
             <p className="text-gray-400 mb-4">
               "Donde cada historia tiene su propia luz"
