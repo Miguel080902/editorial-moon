@@ -1,0 +1,10 @@
+# robots.txt for Editorial Moon
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://editorialmoon.com/sitemap.xml
+
+# Disallow admin or private paths (if any in the future)
+Disallow: /api/
+Disallow: /admin/
